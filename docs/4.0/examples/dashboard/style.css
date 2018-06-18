@@ -1,0 +1,9 @@
+/*Cambio de color a amarillo del nav */
+.bg-dark {
+    background-color: #FFE521!important;
+}
+
+/* Color de Letras del nav*/
+.navbar-dark .navbar-brand {
+    color: black;
+}
